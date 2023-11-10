@@ -22,3 +22,7 @@ git remote add origin https://github.com/career_karma_tutorials/git_tutorials
 
 Клонировать репозиторий:
 git clone git://git.kernel.org/pub/scm/.../linux.git my-linux
+
+//--------------------------------------------------------------------------
+еще справочная инфа:
+https://habr.com/ru/articles/174467/
